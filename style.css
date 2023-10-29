@@ -137,5 +137,34 @@ ul.main-menu li a.active {
   display:block;
 }
 
+ul {
+  margin: 0 0 0 32px;
+  line-height: 1.5
+}
 
+.b1 {
+  list-style-image: url(mit.jpeg);
+}
 
+.b2 {
+  list-style-image: url(gordon-bell-prize.jpeg);
+}
+
+.b3 {
+  list-style-image: url(raising.jpeg);
+}
+.b4 {
+  list-style-image: url(kaust.png);
+}
+
+.b5 {
+  list-style-image: url(Gauss.png);
+}
+
+.b6 {
+  list-style-image: url(argonne.jpeg);
+}
+
+.b7 {
+  list-style-image: url(geo.jpeg);
+}
