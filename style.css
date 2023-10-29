@@ -140,33 +140,35 @@ ul.main-menu li a.active {
 ul {
 list-style: none;
 }
-
-.b1 {
+li {
+ padding-left: 25px; /*adjust to your needs*/
+}
+li.b1 {
   /*height: 10px;*/
   /*width: 10px;*/
   /*padding-left: 25px;*/
   list-style-image: url(mit.jpeg);
 }
 
-.b2 {
+li.b2 {
   list-style-image: url(gordon-bell-prize.jpeg);
 }
 
-.b3 {
+li.b3 {
   list-style-image: url(raising.jpeg);
 }
-.b4 {
+li.b4 {
   list-style-image: url(kaust.png);
 }
 
-.b5 {
+li.b5 {
   list-style-image: url(Gauss.png);
 }
 
-.b6 {
+li.b6 {
   list-style-image: url(argonne.jpeg);
 }
 
-.b7 {
+li.b7 {
   list-style-image: url(geo.jpeg);
 }
