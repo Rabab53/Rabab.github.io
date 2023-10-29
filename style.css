@@ -139,6 +139,8 @@ ul.main-menu li a.active {
 
 ul {
   margin: 0 0 0 1px;
+  height: 15px;
+  width: 15px;
   line-height: 0.5
 }
 
