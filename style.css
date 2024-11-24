@@ -174,5 +174,6 @@ li.b7 {
 }
 .home-link {
   color: #039BE5;
-  font-size: 18px;
+  display: inline-block;
+  font-size: 14px;
 }
