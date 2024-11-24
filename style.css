@@ -176,5 +176,19 @@ li.b7 {
   color: #039BE5;
   display: flex;
   flex-wrap: wrap;
-  font-size: 14px;
+  font-size: 16px;
+}
+
+.image-text-table {
+  width: 100%; /* Adjusts the table width to full width of its container */
+  border-collapse: collapse; /* Collapses borders between table cells */
+}
+
+.image-text-table td {
+  border: none; /* Hides the borders around cells */
+}
+
+.image-text-table img {
+  width: 100%; /* Sets the image width to fill the cell, adjust as needed */
+  height: auto; /* Maintains the aspect ratio of the image */
 }
