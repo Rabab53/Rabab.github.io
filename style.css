@@ -211,3 +211,17 @@ li.b7 {
   width: 60%; /* Set the width to 50% of its containing cell */
   height: 60%; /* Maintains the aspect ratio of the image */
 }
+
+.main-txt-table {
+  width: 100%; /* Adjusts the table width to full width of its container */
+  border-collapse: collapse; /* Collapses borders between table cells */
+}
+
+.main-txt-table td {
+  border: none; /* Hides the borders around cells */
+}
+
+.main-txt-table img {
+  width: 100%; /* Sets the image width to fill the cell, adjust as needed */
+  height: auto; /* Maintains the aspect ratio of the image */
+}
