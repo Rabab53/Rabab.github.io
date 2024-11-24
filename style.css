@@ -172,3 +172,7 @@ li.b6 {
 li.b7 {
   list-style-image: url(geo.jpeg);
 }
+.home-link {
+  color: #039BE5;
+  font-size: 18px;
+}
