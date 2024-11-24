@@ -189,6 +189,6 @@ li.b7 {
 }
 
 .image-text-table img {
-  width: 100%; /* Sets the image width to fill the cell, adjust as needed */
+  width: 100px; /* Fixed width for images */
   height: auto; /* Maintains the aspect ratio of the image */
 }
