@@ -101,9 +101,9 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(0,0,0,.8); 
+  background: rgba(30, 92, 139, 0.356); 
   padding:25px;
-  color:#FFFFFF; 
+  color:#e2e2e2; 
 }
 
 /* Menu Links */
