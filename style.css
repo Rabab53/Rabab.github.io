@@ -202,7 +202,10 @@ li.b7 {
   text-align: center; /* Centers content horizontally */
   vertical-align: middle; /* Centers content vertically */
 }
-
+.image-text-table tr {
+  border-top: 1px solid black; /* Adds a top border to each row */
+  border-bottom: 1px solid black; /* Adds a bottom border to each row */
+}
 .image-text-table td:last-child {
   width: 80%; /* Larger width for the second column to fill space */
 }
